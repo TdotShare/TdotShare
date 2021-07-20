@@ -1,9 +1,26 @@
 ### Hi there, I'm Jirayu 👋
 
+## :wrench: Framework
+![image](https://img.shields.io/badge/Golang-Fiber-00ADD8?style=flat&logo=go)
+![image](https://img.shields.io/badge/Golang-Gin-00ADD8?style=flat&logo=go)
+![image](https://img.shields.io/badge/Php-Laravel-FF2D20?style=flat&logo=laravel)
+![image](https://img.shields.io/badge/Php-Codeigniter-EF4223?style=flat&logo=codeigniter)
+![image](https://img.shields.io/badge/Javascript-React-61DAFB?style=flat&logo=react)
+![image](https://img.shields.io/badge/Javascript-Angular-DD0031?style=flat&logo=angular)
+![image](https://img.shields.io/badge/C&nbsp;sharp-Unity-000000?style=flat&logo=unity)
+![image](https://img.shields.io/badge/Dart-Flutter-02569B?style=flat&logo=flutter)
+![image](https://img.shields.io/badge/Code-Java-brightgreen?style=flat&logo=java)
+![image](https://img.shields.io/badge/Code-Sql-brightgreen?style=flat&logo=mysql)
+
+## :wrench: Tools
+![image](https://img.shields.io/badge/-Vscode-485460?style=flat&logo=visualstudiocode)
+![image](https://img.shields.io/badge/-Docker-485460?style=flat&logo=docker)
+![image](https://img.shields.io/badge/-Digital&nbsp;Ocean-485460?style=flat&logo=digitalocean)
+![image](https://img.shields.io/badge/-Google&nbsp;Cloud-485460?style=flat&logo=googlecloud)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TdotShare&show_icons=true&theme=radical)
 
-## :wrench: Framework
 
 
 
