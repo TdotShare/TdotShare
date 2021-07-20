@@ -3,6 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=TdotShare&color=f53b57)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TdotShare&show_icons=true&theme=radical)
+
+
 
 <!--
 **TdotShare/TdotShare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
