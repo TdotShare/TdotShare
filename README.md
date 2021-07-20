@@ -1,4 +1,4 @@
-### Hi there, I'm Jirayu 👋�
+### Hi there, I'm Jirayu 👋
 
 
 
