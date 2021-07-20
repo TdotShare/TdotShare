@@ -1,5 +1,6 @@
 ### Hi there, I'm Jirayu 👋
 
+![](https://komarev.com/ghpvc/?TdotShare&color=#f53b57)
 
 
 <!--
