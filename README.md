@@ -1,5 +1,7 @@
 ### Hi there, I'm Jirayu 👋
 
+:art: Portfolio : https://tdotshare.github.io/endtdot.github.io/
+
 ## :wrench: Framework
 ![image](https://img.shields.io/badge/Golang-Fiber-00ADD8?style=flat&logo=go)
 ![image](https://img.shields.io/badge/Golang-Gin-00ADD8?style=flat&logo=go)
@@ -17,8 +19,10 @@
 ![image](https://img.shields.io/badge/-Docker-485460?style=flat&logo=docker)
 ![image](https://img.shields.io/badge/-Digital&nbsp;Ocean-485460?style=flat&logo=digitalocean)
 ![image](https://img.shields.io/badge/-Google&nbsp;Cloud-485460?style=flat&logo=googlecloud)
+![image](https://img.shields.io/badge/-Android&nbsp;Studio-485460?style=flat&logo=androidstudio)
 
-
+![](https://komarev.com/ghpvc/?username=TdotShare&color=blueviolet)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TdotShare&show_icons=true&theme=radical)
 
 
