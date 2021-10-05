@@ -1,6 +1,6 @@
 ### Hi there, I'm Jirayu 👋
 
-:art: Portfolio : https://tdotshare.github.io/endtdot.github.io/
+:art: Portfolio : 
 
 ## :wrench: Framework
 ![image](https://img.shields.io/badge/Golang-Fiber-00ADD8?style=flat&logo=go)
