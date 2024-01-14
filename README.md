@@ -1,4 +1,4 @@
-### Hi there, I'm Jirayu 👋
+### Hi there, I'm Ratthason. 👋
 
 :art: Portfolio : https://reviewtdot.herokuapp.com/
 
