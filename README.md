@@ -1,7 +1,5 @@
 ### Hi there, I'm Ratthason. 👋
 
-:art: Portfolio : https://reviewtdot.herokuapp.com/
-<br>
 :art: Google Presentation : https://docs.google.com/presentation/d/1RWZweQanOkFbFOWnIHhMGQKyYWEplLfo5UL8KogZkY8/edit?usp=sharing
 
 ## :wrench: Framework
